@@ -1,0 +1,7 @@
+brew 'hugo'
+cask '1password'
+cask 'skype'
+cask 'spectacle'
+cask 'alfred'
+cask "google-photos-backup-and-sync"
+cask "anki"
