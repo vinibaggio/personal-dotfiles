@@ -1,4 +1,5 @@
 brew 'hugo'
+brew 'rbenv'
 cask '1password'
 cask 'skype'
 cask 'spectacle'
